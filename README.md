@@ -1,7 +1,7 @@
 ## Olá, eu sou o Felipe Deangelles 👋
 
-- 🌱 Eu estou estudando JavaScript  ...
-- 📫 Contate me no email: FelipeDeangelles@hotmail.com ...
+- 🌱 Eu estou estudando JavaScript  
+- 📫 Contate me no email: FelipeDeangelles@hotmail.com 
 
 
 <div style="display: inline_block"><br>
