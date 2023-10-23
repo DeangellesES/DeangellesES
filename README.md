@@ -1,8 +1,11 @@
 ## Olá, eu sou o Felipe Deangelles 👋
 
 - 🌱 Eu estou estudando JavaScript  
-- 📫 Contate me no email: FelipeDeangelles@hotmail.com 
+- 📫 Contate me no email: FelipeDeangelles@hotmail.com
 
+
+<img align="right" src="https://github.com/DeangellesES/DeangellesES/blob/main/programando1.gif" alt="Menino programando" width="320px">
+<br>
 <div  align="start"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
