@@ -6,10 +6,10 @@
 
 <img align="right" src="https://github.com/DeangellesES/DeangellesES/blob/main/programando1.gif" alt="Menino programando" width="320px">
 <br>
+<h2>🚀  Minhas habilidades</h2>
 <div  align="start"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
