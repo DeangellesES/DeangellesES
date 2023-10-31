@@ -38,7 +38,9 @@
 
 </div>
  <br>
- 
+  <br>
+   <br>
+ <img align="center" src="https://github.com/DeangellesES/DeangellesES/blob/main/200w.gif" alt="Menino programando" width="320px">
 </div>
   <br>
 <!-- <a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
