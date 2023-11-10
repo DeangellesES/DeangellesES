@@ -47,6 +47,6 @@
 <!--   <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
 </div>
-<br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/DeangellesES/count.svg" /></p>
+<!-- <br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/DeangellesES/count.svg" /></p> -->
 
