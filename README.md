@@ -10,7 +10,9 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 <h2>🚀  Minhas habilidades</h2>
 <div  align="start"> 
   <div style="display: inline_block"><br>
