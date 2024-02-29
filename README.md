@@ -6,6 +6,11 @@
 
 <img align="right" src="https://github.com/DeangellesES/DeangellesES/blob/main/programando1.gif" alt="Menino programando" width="320px">
 <br>
+<br>
+<br>
+<br>
+<br>
+
 <h2>🚀  Minhas habilidades</h2>
 <div  align="start"> 
   <div style="display: inline_block"><br>
