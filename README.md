@@ -1,6 +1,6 @@
 ## Olá, eu sou o Felipe Deangelles 👋
 
-- 🌱 Eu estou estudando JavaScript  
+- 🌱 Eu estou estudando JavaScript, PHP, Python
 - 📫 Contate me no email: FelipeDeangelles@hotmail.com
 
 
