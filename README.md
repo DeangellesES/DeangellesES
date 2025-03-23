@@ -1,6 +1,6 @@
 ## Olá, eu sou o Felipe Deangelles 👋
 
-- 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, PHP ,  e Flutter
+- 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, PHP , React Native e Flutter
 - 📫 Contate me no email: FelipeDeangelles@hotmail.com
 
 
