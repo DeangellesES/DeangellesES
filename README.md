@@ -1,6 +1,6 @@
 ## Olá, eu sou o Felipe Deangelles 👋
 
-- 🌱 Eu estou estudando JavaScript, PHP e Python
+- 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, PHP ,  e Flutter
 - 📫 Contate me no email: FelipeDeangelles@hotmail.com
 
 
@@ -24,6 +24,7 @@
   <img align="center" alt="Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Github" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
   <img align="center" alt="Node" height="50" width="60" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Express" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Sass" height="50" width="60" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   <img align="center" alt="React" height="50" width="60" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor"> 
   <img align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
