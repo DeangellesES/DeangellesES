@@ -21,6 +21,7 @@
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Materialize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
+  <img align="center" alt="Tailwind CSS" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" />
   <img align="center" alt="Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Github" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor">
   <img align="center" alt="Node" height="50" width="60" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
