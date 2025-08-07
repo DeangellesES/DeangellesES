@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B2531&=35&start=true&width=1000&weight=600&size=35&lines=Olá+Meu+Nome+é+Felipe+Deangelles;Sou+Desenvolvedor+de+Software;Eu+Estou+Graduando+Engenharia+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 - 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, PHP , React Native e Flutter
 - 📫 Contate me no email: FelipeDeangelles@hotmail.com
+- 💻   Programar todos os dias é necessário;
+- ❤️   Amor por codar.
 
 
 <img align="right" src="https://github.com/DeangellesES/DeangellesES/blob/main/programando1.gif" alt="Menino programando" width="320px">
