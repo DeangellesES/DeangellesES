@@ -42,6 +42,10 @@
   <img align="center" alt="Vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite"/>
   <img align="center" alt="React Native" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title="React Native"/>
   <img align="center" alt="Styled Components" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" title="Styled Components"/>
+  <img  align="center" alt="Styled Components" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio Code"/>
+  <img align="center" alt="Styled Components" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio"/>
+
+
 
 
   
