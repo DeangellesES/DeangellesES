@@ -69,14 +69,18 @@
 <br>
 
   
-<div>
+<div display: flex>
   <a href="https://github.com/DeangellesES">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DeangellesES&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-
+    
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=pie&theme=react)](https://github.com/DeangellesES/github-readme-stats) -->
+  
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&langs_count=7&theme=react" /> 
+  
+  <!-- <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613"> -->
 </div>
+
+
 <br>
 <br>
 <br>
