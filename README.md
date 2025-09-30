@@ -69,13 +69,14 @@
 <br>
 
   
-<div display: flex>
-  
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=DeangellesES&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<div align="start" >
 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeangellesES&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=donut&theme=react)](https://github.com/DeangellesES/github-readme-stats) 
+  
+  
+  
   
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=pie&theme=react)](https://github.com/DeangellesES/github-readme-stats)  -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=donut&theme=react)](https://github.com/DeangellesES/github-readme-stats)
 
 </div>
 
