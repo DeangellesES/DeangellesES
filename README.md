@@ -42,6 +42,8 @@
   <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
   <img align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" title="Express"/>
   <img align="center" alt="Nodemon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" title="Nodemon"/>
+  <img align="center" alt="Mongoose" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose"/>
+
 </div>
 
 <div>
@@ -72,7 +74,7 @@
   <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux"/>
   <img align="center" alt="Windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Windows"/>
 </div>
-
+<hr>
 <!-- <div  align="start"> 
   <div style="display: inline_block"><br>
   <img  align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
