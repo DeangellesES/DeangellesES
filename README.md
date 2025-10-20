@@ -64,7 +64,7 @@
   <img align="center" alt="Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" title="Git">
   <img align="center" alt="Github" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" title="GitHub">
   <img align="center" alt="Postman" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"/>
-  <img  align="center" alt="Visual Studio Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="Visual Studio Code"/>
+  <img align="center" alt="Visual Studio Code" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Code"/>
   <img align="center" alt="Android Studio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio"/>
   <img align="center" alt="Vite" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite"/>
   <img align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="NPM"/>
