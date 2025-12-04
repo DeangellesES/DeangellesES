@@ -71,6 +71,12 @@
 </div>
 
 <div>
+  <h3 style="display: inline_block">Computação em Nuvem</h3>
+  <img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+
+</div>
+
+<div>
   <h3 style="display: inline_block">Ferramentas</h3>
   <img align="center" alt="Git" height="50" width="60" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" title="Git">
   <img align="center" alt="Github" height="50" width="60" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" title="GitHub">
