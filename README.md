@@ -28,9 +28,9 @@
   <img align="center" alt="Tailwind CSS" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="Tailwind CSS"/>
   <img align="center" alt="Materialize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" title="Materialize"/>
   <img align="center" alt="Sass" height="50" width="60" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" title="Sass">
-  <img align="center" alt="jQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="jQuery"/>
+  <!-- <img align="center" alt="jQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="jQuery"/> -->
   <img align="center" alt="React" height="50" width="60" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" title="React"> 
-  <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
+  <!-- <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/> -->
   <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
   <img align="center" alt="Styled Components" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" title="Styled Components"/>
   <img align="center" alt="VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js"/>
@@ -40,7 +40,7 @@
   <h3 style="display: inline_block">Desenvolvimento Web Back-End</h3>
   <img align="center" alt="Node" height="50" width="60" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" title="Node">
   <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
-  <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
+  <!-- <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/> -->
   <img align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" title="Express"/>
   <img align="center" alt="Nodemon" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" title="Nodemon"/>
   <img align="center" alt="Mongoose" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose"/>
@@ -49,7 +49,7 @@
 
 <div>
   <h3 style="display: inline_block">Desenvolvimento Mobile</h3>
-  <img align="center" alt="Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Futter"/>
+  <!-- <img align="center" alt="Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Futter"/> -->
   <img align="center" alt="React Native" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title="React Native"/>
 </div>
 
