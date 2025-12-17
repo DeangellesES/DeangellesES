@@ -42,6 +42,7 @@
   <img align="center" alt="Styled Components" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" title="Styled Components"/>
   <img align="center" alt="VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js"/>
   <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json"/>
+  <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios"/>
 
 </div>
 
@@ -55,6 +56,7 @@
   <img align="center" alt="Mongoose" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose"/>
   <img align="center" alt="csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp"/>
   <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json"/>
+  <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios"/>
 
 </div>
 
