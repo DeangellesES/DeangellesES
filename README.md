@@ -43,6 +43,7 @@
   <!-- <img align="center" alt="VueJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js"/> -->
   <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json"/>
   <img align="center" alt="axios" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios"/>
+  <img align="center" alt="axios" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="nextjs"/>
 
 </div>
 
