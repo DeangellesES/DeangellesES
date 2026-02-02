@@ -2,7 +2,7 @@
 
 <!-- ## Olá, eu sou o Felipe Deangelles 👋 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B2531&=35&start=true&width=1000&weight=600&size=35&lines=Olá+Meu+Nome+é+Felipe+Deangelles;Sou+Desenvolvedor+de+Software;Eu+Estou+Graduando+Engenharia+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-- 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, React Native e C#
+- 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, React Native, NextJS e C#
 - 📫 Contate me no email: FelipeDeangelles@hotmail.com
 - 💻   Programar todos os dias é necessário;
 - ❤️   Amor por codar.
