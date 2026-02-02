@@ -57,7 +57,7 @@
   <img align="center" alt="csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp"/>
   <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="json"/>
   <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" title="Axios"/>
-
+  <img align="center" alt="json" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" title="Prisma ORM"/>
 </div>
 
 <div>
