@@ -35,7 +35,7 @@
   <img align="center" alt="Tailwind CSS" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" title="Tailwind CSS"/>
   <!-- <img align="center" alt="Materialize" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" title="Materialize"/> -->
   <img align="center" alt="Sass" height="50" width="60" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" title="Sass">
-  <!-- <img align="center" alt="jQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="jQuery"/> -->
+  <img align="center" alt="jQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" title="jQuery"/>
   <img align="center" alt="React" height="50" width="60" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" title="React"> 
   <!-- <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/> -->
   <img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"/>
