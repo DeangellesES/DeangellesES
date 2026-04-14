@@ -150,7 +150,7 @@
 
   
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeangellesES&show_icons=true) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeangellesES&show_icons=true) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight)
 
 
 <br>
