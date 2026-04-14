@@ -150,8 +150,15 @@
 
 
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeangellesES&show_icons=true)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight)
+<!--![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeangellesES&show_icons=true)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight)-->
 
+<div style="display: flex; gap: 10px;">
+
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeangellesES&show_icons=true" />
+
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight" />
+
+</div>
 
 <br>
 <br>
