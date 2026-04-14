@@ -149,19 +149,9 @@
 <br>
 
   
-<div align="start" >
 
-
-
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeangellesES&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=donut&theme=react)](https://github.com/DeangellesES/github-readme-stats) -->
-  
-  
-  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=react)-->
-
-  
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=pie&theme=react)](https://github.com/DeangellesES/github-readme-stats)  -->
-
-</div>
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeangellesES&show_icons=true) 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact)
 
 
 <br>
