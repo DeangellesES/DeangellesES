@@ -88,8 +88,8 @@
 <h3>Ferramentas</h3>
 <table>
   <tr>
-    <td><img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="60" title="git"></td>
-    <td><img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="60" title="GitHub"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" title="git"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" title="GitHub"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" title="Postman"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="60" title="Visual Studio"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="60" title="AndroidStudio"></td> 
