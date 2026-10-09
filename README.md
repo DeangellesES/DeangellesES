@@ -117,13 +117,31 @@
 <br>
 <hr>
 
-<div style="display: flex; gap: 10px;" align="center">
+<!-- <div style="display: flex; gap: 10px;" align="center">
 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=DeangellesES&show_icons=true&theme=tokyonight" />
 
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight" />
+  <img
+  height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight"
+  alt="Linguagens mais utilizadas no GitHub"
+/>
 
+</div> -->
+
+ <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=DeangellesES&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+      </td>
+      <td>
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeangellesES&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas no GitHub" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <br>
 <br>
