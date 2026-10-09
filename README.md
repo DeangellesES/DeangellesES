@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Felipe+Deangelles&fontSize=30&fontColor=fff&animation=twinKling&fontAlignY=35"/>
 
 <!-- ## Olá, eu sou o Felipe Deangelles 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B2531&=35&start=true&width=1000&weight=600&size=35&lines=Olá+Meu+Nome+é+Felipe+Deangelles;Sou+Desenvolvedor+de+Software;Eu+Estou+Graduando+Engenharia+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B2531&=35&start=true&width=1000&weight=600&size=35&lines=Olá+Meu+Nome+é+Felipe+Deangelles;Sou+Desenvolvedor+de+Software;Sou+Engenheiro+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 - 🌱 Eu estou estudando JavaScript, TypeScript, React, Node, React Native, NextJS, C#, MySQL, PostgreSQL e MongoDB
 - 📫 Contate me no email: FelipeDeangelles@hotmail.com
 - 💻   Programar todos os dias é necessário;
