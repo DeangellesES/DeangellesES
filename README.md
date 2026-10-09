@@ -36,9 +36,9 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" title="Bootstrap"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="60" title="tailwindCSS"></td>
-    <td><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" width="60" title="Sass"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" title="Sass"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" width="60" title="jQuery"></td>
-    <td><img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" width="60" title="React.JS"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" title="React.JS"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" title="TypeScript"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" width="60" title="Styled Components"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" title="Next.JS"></td>
@@ -51,7 +51,7 @@
 <h3>Desenvolvimento Back-End</h3>
 <table>
   <tr>
-    <td><img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" width="60" title="Node.JS"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" title="Node.JS"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" title="TypeScript"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="60" title="express"></td>
     <!-- <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width="60" title="JavaScript"></td> -->
