@@ -81,7 +81,7 @@
 <h3>Computação em Nuvem</h3>
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60" title="AWS"></td>
   </tr>
 </table>
 
